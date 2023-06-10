@@ -1,7 +1,5 @@
 # <h1 id="React_ProCom"> React_ProCom: My frontend profects and most used components </h1>
-### A file sharing app, using '<a href="https://ejs.co" target="_ejs">EJS templates</a>'
-React_ProCom, is a fullstack project, which is help the user to upload any file, and after sharing get the donwload file link or share with specific user who want to download.Also have the features, its automatically delete file after 24 hour.
-After getting the link ,users can share via Email, whatsapp or use of other chat plateform.But didnot upload file upto 100 MB.
+React_ProCom, is a repo where i am save my components(basically related to frontends) and my practise minor projects
 
 ## Indexing the contents
 ####   <p><a href="#badges" >Badges</a></p>
@@ -10,7 +8,6 @@ After getting the link ,users can share via Email, whatsapp or use of other chat
 ####   <p><a href="#stack" >Tech Stack</a></p>
 ####   <p><a href="#runLocally" >Run Locally</a></p>
 ####   <p><a href="#features" >Features</a></p>
-####   <p><a href="#relatedProjects" >Related Projects</a></p>
 
 ## <h2 id="badges" >Badges </h2>
 
@@ -27,7 +24,7 @@ After getting the link ,users can share via Email, whatsapp or use of other chat
 ## <h2 id="demo" >Demo </h2>
 
 <p text-align=left>
-  <img src="" width="500" height="" alt="React_ProCom_home"/>
+  <img src="https://github.com/Nik4Furi/React_ProCom/assets/91304976/77d3567a-3613-4b9b-bc93-17ee2400d0bb" width="500" height="" alt="React_ProCom_home"/>
     
 </p> 
 
@@ -50,7 +47,7 @@ After getting the link ,users can share via Email, whatsapp or use of other chat
 Clone the project
 
 ```bash
-  git clone https://github/Nik4Furi/React_ProCom
+  git clone https://github.com/Nik4Furi/React_ProCom/tree/master/Projects/AddToCart
 ```
 
 Go to the project directory
@@ -75,15 +72,14 @@ Start the server
 
 ## <h2 id="features">Features </h2>
 
-- [AddToCart](https://github.com/Nik4Furi/): Using the react-redux concepts, redux toolkit and others concept practiscing
-- [Watching Components and used to make my productive fast]()
+- [AddToCart](https://github.com/Nik4Furi/React_ProCom/tree/master/Projects/AddToCart) : Using the react-redux concepts, redux toolkit and others concept practiscing
 
 <a href="#React_ProCom">Go Home </a>
 
 
 
-## <h2 id="pro" >List Of React_Projects </h2>
+## <h2 id="relPro" >List Of React_Projects </h2>
 
-1. [AddToCart](https://github.com/Nik4Furi/)
+1. [AddToCart](https://github.com/Nik4Furi/React_ProCom/tree/master/Projects/AddToCart)
 
 <a href="#React_ProCom">Go Home </a>
